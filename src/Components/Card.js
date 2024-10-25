@@ -6,12 +6,12 @@ function Card() {
       style={{
         backgroundColor: "#1a2e35",
         padding: "2rem 3rem",
-        width: "39%",
+        width: "43%",
         margin: "auto",
       }}
     >
       <h1
-        style={{ color: "#fff", margin: "0", fontSize: "3rem" }}
+        style={{ color: "#fff", margin: "0", fontSize: "2.5rem" }}
         className="fw-bold"
       >
         YOU CAN <br /> HIRE FREELANCER <br /> HERE
